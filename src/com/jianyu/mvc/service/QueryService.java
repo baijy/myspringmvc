@@ -1,5 +1,5 @@
 package com.jianyu.mvc.service;
 
-public interface IQueryService {
+public interface QueryService {
 	String search(String name);
 }
